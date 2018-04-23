@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Databaseconfig>
+	<MySQL>192.168.90.135</MySQL>
+	<DBname>test</DBname>
+	<Port>3306</Port>
+	<Username>root</Username>
+	<Password>root</Password>
+	<Redis>192.168.90.135</Redis>
+	<RedisPort>6379</RedisPort>
+</Databaseconfig>
